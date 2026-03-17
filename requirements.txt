@@ -4,3 +4,4 @@ torchvision==0.25.0
 Pillow==10.0.0
 numpy==1.24.3
 opencv-python==4.8.0.76
+reportlab==4.0.4
